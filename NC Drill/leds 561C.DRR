@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: leds 561C.PcbDoc   9/10/2018  2:54:46 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : leds 561C.TXT
+EIA File   : leds 561C.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        165.35mil (4.19989mm)    Round          4                1.69 Inch (43.03 mm)
+---------------------------------------------------------------------------
+Totals                                            4                1.69 Inch (43.03 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
