@@ -1,3 +1,5 @@
+![SuperGreenLab](assets/sgl.png?raw=true "SuperGreenLab")
+
 # supergreenLed-561C
 64 leds Aluminium substrate panel from supergreenlab (https://supergreenlab.com/)
 
