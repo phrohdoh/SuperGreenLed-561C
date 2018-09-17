@@ -2,7 +2,7 @@
 
 # supergreenLed-561C
 
-![SuperGreenLed](assets/pcb-side.png.png?raw=true "SuperGreenLed")
+![SuperGreenLed](assets/pcb-side.png?raw=true "SuperGreenLed")
 
 64 leds Aluminium substrate panel from supergreenlab (https://supergreenlab.com/)
 
