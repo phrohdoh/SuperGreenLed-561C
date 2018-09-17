@@ -1,6 +1,9 @@
 ![SuperGreenLab](assets/sgl.png?raw=true "SuperGreenLab")
 
 # supergreenLed-561C
+
+![SuperGreenLed](assets/pcg-side.png.png?raw=true "SuperGreenLed")
+
 64 leds Aluminium substrate panel from supergreenlab (https://supergreenlab.com/)
 
 supergreenLed-561C is an open hardware Aluminium Substarte board. This design is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
